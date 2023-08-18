@@ -1,5 +1,6 @@
 # base64
 
+```
 Usage:
   base64 [OPTIONS] [TEXT]
 Options:
@@ -11,3 +12,4 @@ Options:
     	Input file
   -o string
     	Output file (default: stdout)
+```
