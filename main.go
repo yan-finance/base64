@@ -25,7 +25,6 @@ func main() {
 
 	flag.Parse()
 
-	fmt.Printf("%v", len(os.Args))
 	if len(os.Args) <= 1 || *helpFlag {
 		printUsage()
 		return
